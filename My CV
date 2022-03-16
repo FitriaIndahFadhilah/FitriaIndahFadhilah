@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Curriculum Vitae</title>
+        <link rel="stylesheet" href="Curriculum-vitae.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+    <div class="container">
+     <center>
+          <div class="top-wrapper">
+            	<h1>Curriculum Vitae</h1><br>
+            	<img src="foto-dila.png" width="200" height="300"> <br>
+
+            	<h3>FITRIA INDAH FADHILAH</h3> 
+              <h4>Fresh Graduate</h4>
+              <h5>085810017987│fitriandhfadila@gmail.com│Jl. Mandiri Raya, Kecamatan periuk, Kelurahan Gebang Raya, Kota Tangerang, Banten, Indonesia, 15132│www.linkedin.com/in/fitria-indah-fadhilah-923494230-│https://github.com/FitriaIndahFadhilah</h5>
+                <hr>
+            	<p>Saya adalah lulusan S1 Agroekoteknologi Universitas Sultan Ageng Tirtayasa tahun 2021. Saya seorang yang pekerja keras dan selalu bertekad untuk maju dan berkembang. saya juga suka mempelajari hal baru.</p>
+        		  <br>
+          </div>
+    </center>
+
+          <div class="main-wrapper">
+          		<table width="100%" border="1" cellspacing="0" cellpadding="30">
+            <thead>
+               <tr>
+                 <td width="200px">Pendidikan</td>
+                 <td width="400px">
+                 		<ul>
+                 			<li>2014-2017<br>
+                          SMAN 4 Kota Tangerang<br>
+                          MIPA</li>
+                 			<li>2017-2021<br>
+                          Universitas Sultan Ageng Tirtayasa<br>
+                          S1 Agroekoteknologi, 3.80/4.00</li>
+                 		</ul>
+                 	</td>
+               </tr>
+               <tr>
+                <div class="pengalaman-kerja">
+                 <td>Pengalaman Kerja</td>
+                </div>
+                 <td>
+                 		UPTD Benih dan Perlindungan Tanaman Pangan, Hortikultura dan Perkebunan (BPTPHP) Dinas Pertanian Provinsi Banten<br>
+                    Staff Magang<br>
+                    2021<br>
+                 	</td>
+               </tr>
+               <tr>
+                 <td>Pengalaman Organisasi</td>
+                 <td>
+                 		<ul>
+                 			<li>UKM Jurnalistik<br>
+                          Kepala Divisi Inventaris Rumah Tangga<br>
+                          2018-2021</li>
+                      <li>Himpunan Mahasiswa Agroekoteknologi<br>
+                          Anggota Direktorat Budidaya<br>
+                          2018-2019</li>
+                      <li>UKMF Pecinta Tanaman<br>
+                          Anggota Divisi INFOKOM<br>
+                          2018-2020</li>
+                 		</ul>
+                 	</td>
+               </tr>
+               <tr>
+                 <td>Pengalaman Pelatihan</td>
+                 <td>
+                    <ul>
+                      <li>Pelatihan Dasar Jurnalistik (2017)</li>
+                      <li>Pelatihan Fundamental Akuntansi (2022)</li>
+                      <li>Pelatihan Adobe Illustrator (2022)</li>
+                      <li>Pelatihan Basic Excel (2022)</li>
+                      <li>Pelatihan Intermediate Excel (2022)</li>
+                    </ul>
+                  </td>
+               </tr>
+               <tr>
+                 <td>Software</td>
+                 <td>
+                    <table border="0" cellspacing="0" cellpadding="10">
+                      <tr>
+                        <td>Microsoft Word</td>
+                        <td>Expert</td>
+                      </tr>
+                      <tr>
+                        <td>Microsoft Excel</td>
+                        <td>Intermediate</td>
+                      </tr>
+                      <tr>
+                        <td>Microsoft Powerpoint</td>
+                        <td>Intermediate</td>
+                      </tr>
+                      <tr>
+                        <td>CorelDRAW</td>
+                        <td>Basic</td>
+                      </tr>
+                      <tr>
+                        <td>Adobe Illustrator</td>
+                        <td>Basic</td>
+                      </tr>
+                      <tr>
+                        <td>HTML</td>
+                        <td>Basic</td>
+                      </tr>
+                      <tr>
+                        <td>CSS</td>
+                        <td>Basic</td>
+                      </tr>
+                    </table>                
+                  </td>
+                </tr>
+         </thead>
+        </table>
+        </div>
+    </div>
+  </body>
+</html>
